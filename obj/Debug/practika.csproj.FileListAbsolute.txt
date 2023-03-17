@@ -1,0 +1,16 @@
+C:\Users\railw\source\repos\practika\bin\Debug\practika.exe.config
+C:\Users\railw\source\repos\practika\bin\Debug\practika.exe
+C:\Users\railw\source\repos\practika\bin\Debug\practika.pdb
+C:\Users\railw\source\repos\practika\obj\Debug\practika.csproj.AssemblyReference.cache
+C:\Users\railw\source\repos\practika\obj\Debug\practika.csproj.SuggestedBindingRedirects.cache
+C:\Users\railw\source\repos\practika\obj\Debug\MainWindow.g.cs
+C:\Users\railw\source\repos\practika\obj\Debug\App.g.cs
+C:\Users\railw\source\repos\practika\obj\Debug\practika_MarkupCompile.cache
+C:\Users\railw\source\repos\practika\obj\Debug\practika_MarkupCompile.lref
+C:\Users\railw\source\repos\practika\obj\Debug\MainWindow.baml
+C:\Users\railw\source\repos\practika\obj\Debug\practika.g.resources
+C:\Users\railw\source\repos\practika\obj\Debug\practika.Properties.Resources.resources
+C:\Users\railw\source\repos\practika\obj\Debug\practika.csproj.GenerateResource.cache
+C:\Users\railw\source\repos\practika\obj\Debug\practika.csproj.CoreCompileInputs.cache
+C:\Users\railw\source\repos\practika\obj\Debug\practika.exe
+C:\Users\railw\source\repos\practika\obj\Debug\practika.pdb
